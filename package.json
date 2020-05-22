@@ -1,0 +1,11 @@
+{
+    "name": "simple-web-server",
+    "version": "1.0.0",
+    "description": "simple node app",
+    "main": "server.js",
+    "scripts": {
+        "test": "start"
+    },
+    "author": "vannak",
+    "license": "ISC"
+}
